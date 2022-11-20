@@ -6,9 +6,9 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.autorecording = false //status auto merekam ( auto record )
+global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
-global.autoavailable = false //status online (online)
+global.autoavailable = true //status online (online)
 global.wlcm = []
 global.ntnsfw = []
 global.ntnsfww = []
@@ -36,7 +36,7 @@ global.premium = ['6281214281312'] // ubah aja pake nomor lu
 global.packname = 'banghw☆' // ubah aja
 global.ownerr = ['banghw☆'] // ubaha aja
 global.author = 'banghw☆' //ubah aja
-global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
+global.sessionName = 'session' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
